@@ -30,7 +30,7 @@
 - [Тестирование методом черного ящика](https://habr.com/ru/post/462837/), [Особенности тестирования «черного ящика»](https://software-testing.ru/library/testing/functional-testing/2675-key-principles-of-black-box-testing)
 - [Особенности тестирования «серого ящика»](https://software-testing.ru/library/testing/other-testing/2581-key-principles-of-gray-box-testing)
 - [Тестирование локализации](https://software-testing.ru/library/testing/other-testing/3131-localization-testing)
-- [Кросс-браузерное тестирование](https://software-testing.ru/library/testing/other-testing/3091-cross-browser-testing)
+- [Кросс-браузерное тестирование](https://software-testing.ru/library/testing/other-testing/3091-cross-browser-testing) 
 - [Тестирование Установки (Installation Testing)](https://software-testing.ru/library/testing/functional-testing/725-installation-testing)
 ## Тест-план
 - [Тест-план на одну страницу](https://software-testing.ru/library/testing/test-analysis/2405-the-one-page-test-plan)
